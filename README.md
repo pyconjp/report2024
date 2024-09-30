@@ -24,16 +24,9 @@ $ ls build/html  # ここにHTMLファイルが生成されます
 
 画像を挿入する場合の[figureディレクティブ](https://sphinx-users.jp/reverse-dict/images/caption.html)の書き方は以下の通りです。
 
-```markdown
-```{figure} sample.jpg
-:width: 600
+https://myst-parser.readthedocs.io/en/latest/syntax/images_and_figures.html#block-level-images
 
-画像のキャプション
-```
-```
-
-画像のパスは、相対パスで指定してください。
-`:width:`は画像の幅を指定するオプションです。指定しない場合は、元画像のサイズがそのまま使われます。
+https://myst-parser.readthedocs.io/en/latest/syntax/images_and_figures.html#figures-images-with-captions
 
 他のSphinxのディレクティブを使う場合は、以下のMyST-Parser公式ドキュメントを参照してください（たぶん、ほぼ使うことはないと思いますが）。
 
