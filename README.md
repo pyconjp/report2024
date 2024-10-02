@@ -40,3 +40,15 @@ https://drive.google.com/drive/u/0/folders/10jx6o7viOh9zsayOX_Zbi9XJhYEZXjVf
 自分で撮った写真でもOKです。
 
 **なお、登壇者の写真を載せる場合は、本人が写真撮影に同意しているか必ず確認してください。**
+
+## プレビューの確認方法
+プルリクエストごとにRead the Docsでプレビューが見られるようになっています。プレビューURLの取得方法は以下のとおりです。
+
+![step1](https://github.com/user-attachments/assets/554d2bae-1d67-4670-91d7-da9548465bf1)
+<img width="712" alt="step2" src="https://github.com/user-attachments/assets/4cc514ef-a967-437e-bbc5-a63bf3febb01">
+![step3](https://github.com/user-attachments/assets/2667206c-7520-4dec-8b95-c67d8a3a2670)
+![step4](https://github.com/user-attachments/assets/e010ef5c-58c0-4100-9eb7-804d2c1477b9)
+
+## レビューコメントの付け方
+レビューコメントには[hypothes](https://web.hypothes.is/)のアカウントが必要です。
+プレビューのコメントしたい箇所を選択状態にすると、「Annotate」というメニューが表示されます。これをクリックするとコメントを付けられます。
