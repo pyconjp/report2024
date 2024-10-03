@@ -44,6 +44,12 @@ https://drive.google.com/drive/u/0/folders/10jx6o7viOh9zsayOX_Zbi9XJhYEZXjVf
 ## プレビューの確認方法
 プルリクエストごとにRead the Docsでプレビューが見られるようになっています。プレビューURLの取得方法は以下のとおりです。
 
+ます、以下のURLを開きます。
+
+https://report2024.readthedocs.io/ja/latest/
+
+以下の手順でプレビューURLを取得します。
+
 ![step1](https://github.com/user-attachments/assets/554d2bae-1d67-4670-91d7-da9548465bf1)
 <img width="712" alt="step2" src="https://github.com/user-attachments/assets/4cc514ef-a967-437e-bbc5-a63bf3febb01">
 ![step3](https://github.com/user-attachments/assets/2667206c-7520-4dec-8b95-c67d8a3a2670)
