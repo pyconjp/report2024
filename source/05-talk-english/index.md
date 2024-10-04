@@ -4,7 +4,7 @@ Stefanie Molinさんの「[Getting Started with Open Source Contributions](https
 
 ```{figure} ./talk-english.jpg
 :width: 400px
-:alt: トーク中の葉数
+:alt: トーク中の様子
 
 トーク中の様子
 ```
