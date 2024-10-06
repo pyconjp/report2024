@@ -32,15 +32,6 @@ https://myst-parser.readthedocs.io/en/latest/syntax/images_and_figures.html#figu
 
 [Roles and Directives](https://myst-parser.readthedocs.io/en/latest/syntax/roles-and-directives.html)
 
-## 写真の場所
-以下のGoogle Driveフォルダにカメラマンが撮影した写真があります。適宜利用してください。
-
-https://drive.google.com/drive/u/0/folders/10jx6o7viOh9zsayOX_Zbi9XJhYEZXjVf
-
-自分で撮った写真でもOKです。
-
-**なお、登壇者の写真を載せる場合は、本人が写真撮影に同意しているか必ず確認してください。**
-
 ## プレビューの確認方法
 プルリクエストごとにRead the Docsでプレビューが見られるようになっています。プレビューURLの取得方法は以下のとおりです。
 
