@@ -1,4 +1,4 @@
-# 執筆者が印象に残ったトーク（英語）
+# Getting Started with Open Source Contributions
 広報チームの筒井です。ここでは、私が印象に残った英語のトークを紹介します。
 Stefanie Molinさんの「[Getting Started with Open Source Contributions](https://2024.pycon.jp/ja/talk/LCHGZJ)」です。
 
