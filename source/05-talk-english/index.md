@@ -8,9 +8,9 @@ Stefanie Molinさんの「[Getting Started with Open Source Contributions](https
 
 ```{figure} ./talk-english.jpg
 :width: 400px
-:alt: トーク中の様子
+:alt: Stefanie Molinさん
 
-トーク中の様子
+Stefanie Molinさん
 ```
 
 初心者がオープンソースへのコントリビュート（貢献）を始めるためのコツについて、わかりやすく説明していました。
