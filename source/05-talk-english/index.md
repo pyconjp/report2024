@@ -2,6 +2,10 @@
 広報チームの筒井です。ここでは、私が印象に残った英語のトークを紹介します。
 Stefanie Molinさんの「[Getting Started with Open Source Contributions](https://2024.pycon.jp/ja/talk/LCHGZJ)」です。
 
+発表資料は以下を参照してください。
+
+<https://stefaniemolin.com/getting-started-with-open-source-talk/>
+
 ```{figure} ./talk-english.jpg
 :width: 400px
 :alt: トーク中の様子
