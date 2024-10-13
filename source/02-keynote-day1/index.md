@@ -10,4 +10,4 @@ Jamesさんのプレゼンは「Details matter, but concepts matter more」と�
 PandasやNumPyといったデータ分析用の強力なライブラリについても使い方を単に覚えるのではなく、
 その設計や原則を理解することで、コードの品質を向上させ、より効果的な分析が可能になることを示しました。
 
-<img src="./photo.jpg">
+![photo.jpg](02-keynote-day1/photo.jpg)
