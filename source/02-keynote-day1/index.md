@@ -1,5 +1,5 @@
 # キーノート（1日目）
-James Powellさんのkeynoteについて、ku-muが紹介します。
+James Powellさんのkeynoteについて、広報チームのku-muが紹介します。
 
 Jamesさんのプレゼンは「Details matter, but concepts matter more」という力強い言葉で幕を開けました。
 彼は、単に文法やライブラリを暗記するのではなく、それらの背景にある重要な原則を理解することが不可欠であると強調しました。
