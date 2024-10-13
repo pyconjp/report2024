@@ -12,8 +12,8 @@
 アフターパーティーの様子
 ```
 
-会場ではお酒とフードが振る舞われ、お酒の中にはオリジナルのビールもありました。  
-ビールスポンサー、素敵です 👏
+会場ではお酒とフードが振る舞われ、お酒の中には [オリジナルのビール](https://t0ki.beer/blogs/product/antigravity) もありました。  
+[ビールスポンサー](https://github.com/10-python-beer-lovers/) 、素敵です 👏
 
 ```{figure} party_beer.jpg
 :width: 400px
