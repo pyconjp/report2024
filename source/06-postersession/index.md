@@ -7,16 +7,20 @@
 
 いずれも、ポスターを通じて会話が生まれている様子がわかりますね！👍
 
-```{image} poster_kyushu_02.jpg
-:alt: PyConKyushu 2024のポスターでの会話
+```{figure} poster_kyushu_02.jpg
 :width: 400px
+:alt: PyConKyushu 2024のポスターでの会話
+
+PyConKyushu 2024のポスターでの会話
 ```
 
 さらに、PyLadiesのみなさんは仲良く集合写真も撮られていました！ (出展: [@PyLadiesTokyoによるポスト](https://x.com/PyLadiesTokyo/status/1839910002087342111))
 
-```{image} poster_pyladies.jpeg
-:alt: PyLadiesのみなさんの集合写真
+```{figure} poster_pyladies.jpeg
 :width: 400px
+:alt: PyLadiesのみなさんの集合写真
+
+PyLadiesのみなさんの集合写真
 ```
 
 こういったコミュニティ活動において、「楽しんでいるさま」をそのまま発信することには大きな意義があると感じます。「参加してみたいけど、仲間ができるか不安だな…」と迷っている方の背中を押す、素敵な発信ではないでしょうか 👏  
