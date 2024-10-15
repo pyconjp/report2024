@@ -13,5 +13,7 @@ PandasやNumPyといったデータ分析用の強力なライブラリについ
 
 ```{figure} ./photo.jpg
 :width: 600px
-:alt: Jamesさん
+:alt: James Powellさん
+
+James Powellさん
 ```
